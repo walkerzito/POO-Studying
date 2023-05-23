@@ -1,3 +1,5 @@
+package Questão1;
+
 import java.util.Scanner;
 
 public class Quadrado {
@@ -7,6 +9,7 @@ public class Quadrado {
         float lado = l1.nextFloat();
         float area = lado * lado;
         System.out.println("A area do quadrado é: " + area);
+        l1.close();
     }
     
 }
