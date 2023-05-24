@@ -21,5 +21,6 @@ public class CDU {
         int newNum = (und * 100) + (cent * 10) + dez;
 
         System.out.print("A nova ordem é: " +newNum);
+        sc.close();
     }
 }
