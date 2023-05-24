@@ -56,5 +56,6 @@ public class Loja {
 
         System.out.println("Setor: "+ setor);
         System.out.println("Valor do produto com desconto: "+ valorDesconto);
+        sc.close();
     }
 }
