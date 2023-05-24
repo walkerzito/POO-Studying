@@ -17,5 +17,6 @@ public class Minutos {
         int min = interMin % 60;
 
         System.out.print("Equivalente a: " + dia + " dias, " + hora + " horas, " + min + " minutos. ");
+        sc.close();
     }
 }
