@@ -51,6 +51,7 @@ public class Loja {
             }
         } else {
             System.out.println("Setor Inválido");
+            sc.close();
             return;
         }
 
