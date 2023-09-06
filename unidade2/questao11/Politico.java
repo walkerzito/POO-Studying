@@ -5,5 +5,14 @@ public class Politico extends Pessoa{
 
     public Politico(String nome, int idade, String partido){
         super(nome, idade);
+        this.partido = partido;
+    }
+
+    public String getPartido() {
+        return partido;
+    }
+
+    public void setPartido(String partido) {
+        this.partido = partido;
     }
 }
