@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class Principal {
+public class Principal6 {
     public static void main(String[] args) {
         LinkedList<Character> originalList = new LinkedList<>();
         originalList.add('A');

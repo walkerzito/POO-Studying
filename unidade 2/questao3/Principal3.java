@@ -1,4 +1,4 @@
-public class Principal {
+public class Principal3 {
     public static void main(String[] args) {
         Quadrado q1 = new Quadrado(10);
         Triangulo t1 = new Triangulo("retangulo");
