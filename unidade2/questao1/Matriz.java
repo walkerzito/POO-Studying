@@ -1,6 +1,3 @@
-/**
- * Matriz
- */
 public class Matriz {
 
     private float[][] matriz = new float[2][2];
